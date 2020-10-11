@@ -1,0 +1,3 @@
+rootProject.name = 'SimpleFraction'
+include 'Fraction'
+
